@@ -1,5 +1,6 @@
 Homebrew
 ========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hikonori07/homebrew?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Features, usage and installation instructions are [summarized on the homepage][home].
 
 What Packages Are Available?
